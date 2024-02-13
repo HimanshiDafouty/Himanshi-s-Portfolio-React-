@@ -1,0 +1,29 @@
+[
+    {
+      "role": "Javascript Developer",
+      "organisation": "CodeTikki",
+      "startDate": "Jan, 2024",
+      "endDate": "Present",
+      "experiences": ["CodeTikki website development intern. ", "Tasks improve user experience."],
+      "imageSrc": "history/codeTikki.jpg"
+    },
+    {
+      "role": "Web Development Intern",
+      "organisation": "The Sparks Foundation",
+      "startDate": "Sep, 2023",
+      "endDate": "Oct, 2023",
+      "experiences": ["Created a Banking System utilizing MERN Stack", "Dynamic website, transactions recorded"],
+      "imageSrc": "history/sparkFoundation.png"
+    },
+    {
+      "role": "Core Team Member",
+      "organisation": "ACM-DITU",
+      "startDate": "Sep, 2022",
+      "endDate": "July, 2023",
+      "experiences": [
+        "Led ACM CSS workshop",
+        " Built efficient team, delivered high-quality results consistently."
+      ],
+      "imageSrc": "history/ACMChapterLOGO.png"
+    }
+  ]

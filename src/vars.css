@@ -1,0 +1,16 @@
+/* variables helps us to define various properties at a single place and use them across the application. This helps us to maintain the consistency and also makes it easy to change the properties in future. */
+:root{
+    /* Colors */
+    --color-text:#fff;
+    --color-primary:#576cbc;
+    --color-secondary:#19376d;
+    --color--dark:#0b2447;
+    --color-bg:#04152d;
+
+    /* Fonts */
+    --font-roboto:"Roboto", sans-serif;
+
+
+
+
+}

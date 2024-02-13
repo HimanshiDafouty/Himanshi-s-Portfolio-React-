@@ -1,0 +1,26 @@
+[
+    {
+      "title": "Portfolio Website",
+      "imageSrc": "projects/portfolio.jpg",
+      "description": "This is a project made to showcase my portfolio by building an online app.",
+      "skills": ["React", "HTML", "CSS"],
+      "demo": "https://www.example.com",
+      "source": "https://www.github.com"
+    },
+    {
+      "title": "Weather App",
+      "imageSrc": "projects/weatherApp.png",
+      "description": "A website providing weather conditions for specific locations.",
+      "skills": ["HTML", "CSS", "JS", "API"],
+      "demo": "https://www.example.com",
+      "source": "https://www.github.com"
+    },
+    {
+      "title": "Netflix Clone",
+      "imageSrc": "projects/Netflix.png",
+      "description": "A website mimicking the design and functionality of Netflix.",
+      "skills": [ "HTML", "CSS", "Javascript"],
+      "demo": "https://www.example.com",
+      "source": "https://www.github.com"
+    }
+  ]
